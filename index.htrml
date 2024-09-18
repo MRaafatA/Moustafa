@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Moustafa Raafat Abdallah</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; direction: rtl; text-align: right; }
+        h1, h2 { text-align: center; }
+        .contact { text-align: center; margin-bottom: 20px; }
+        .section { margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Moustafa Raafat Abdallah</h1>
+    <div class="contact">
+        <p>المهندس المعماري</p>
+        <p>البريد الإلكتروني: <a href="mailto:Moustafaa.raafat@gmail.com">Moustafaa.raafat@gmail.com</a></p>
+        <p>الهاتف: +201028555995</p>
+        <p><a href="http://be.net/moustafaaraafat">Behance</a> | <a href="https://eg.linkedin.com/in/moustafaraafat">LinkedIn</a></p>
+    </div>
+
+    <div class="section">
+        <h2>الخبرة المهنية</h2>
+        <ul>
+            <li>قائد فريق معماري بشركة Atrium Quality Contractors (من فبراير 2018 حتى الآن).</li>
+            <li>مهندس كميات في العديد من المشاريع مثل Emaar School, Four Seasons Luxor, وغيرها.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>المهارات التقنية</h2>
+        <p>Autodesk AutoCAD, Autodesk Revit, Primavera, Microsoft Project, وغيرها.</p>
+    </div>
+
+    <div class="section">
+        <h2>التعليم</h2>
+        <p>بكالوريوس الهندسة المعمارية - الأكاديمية الحديثة للهندسة والتكنولوجيا (2013).</p>
+    </div>
+</body>
+</html>
